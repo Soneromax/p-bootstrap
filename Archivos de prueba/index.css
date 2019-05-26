@@ -1,0 +1,120 @@
+
+.title {
+  margin-top: 55px;
+}
+
+#header nav a img {
+background: #343a40!important;
+width: 80px;
+color: white;
+}
+
+.oradoress {
+	margin-top: 40px;
+	margin-bottom: 100px;
+}
+
+.row{
+background: #1c3643;
+color: white;
+}
+
+.fondos {
+max-height: 100vh;
+object-fit: cover;
+}
+
+.fondos img {
+filter: grayscale(70%);
+}
+
+#carousel {
+position: relative;
+}
+
+.overlay {
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background: rgba(0, 0, 0, 0.5);
+color: white;
+z-index: 1;
+}
+
+.overlay .col button {
+border-radius: 5px;
+border-color: #8bc34a; 
+color: white;
+}
+
+.overlay .container-fluid .row {
+background-color: rgba(0, 0, 0, 0.1);
+}
+
+.cholito {
+  background-color: #c5f70a;
+}
+
+.cholito:hover {
+  background-color: black;
+}
+
+.hover1:hover {
+  background-color: red;
+}
+
+.oradores {
+  background-color: white;
+  color: black;  
+  margin-bottom: 30px;
+  font-size: 35px
+}
+
+.honolulup {
+	background-color: #1c3643;
+	margin-bottom: 100px;
+}
+
+.divhonolulu {
+	height: 849px;
+}
+
+.honolulu {
+  width: 144%;
+}
+
+.overlay2 {
+	position: absolute;
+ top: 0px;
+ bottom: 0;
+ left: 394px;
+ right: 0px;
+ background: rgba(0, 0, 0, 0.5);
+ color: white;
+ z-index: 1;
+}
+
+.descripcion {
+  margin-top: 80px;
+ 	height: 190px;	
+}
+
+.leer {
+	background-color: transparent;
+	height: 400px !important;
+ margin-top: 0px !important;
+}
+
+.boton4 {
+	margin-top: 130px;
+}
+
+.container4 {
+  background-color: red;
+}
+
+.section {
+	padding-bottom: 300px;
+}
